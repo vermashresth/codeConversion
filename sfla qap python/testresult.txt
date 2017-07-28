@@ -1,0 +1,50 @@
+ optimal route 
+ 12  8 10  2  6  4  5  1  0 14  3 13 11  9  7 15 
+ original optimal solution 14 
+ 
+ frog 0 tour length: 56
+ frog 1 tour length: 60
+ frog 2 tour length: 48
+ frog 3 tour length: 60
+ frog 4 tour length: 70
+ frog 5 tour length: 58
+ frog 6 tour length: 68
+ frog 7 tour length: 50
+ frog 8 tour length: 50
+ frog 9 tour length: 78
+ frog 10 tour length: 46
+ frog 11 tour length: 66
+ frog 12 tour length: 64
+ frog 13 tour length: 62
+ frog 14 tour length: 60
+ frog 15 tour length: 60
+ frog 16 tour length: 70
+ frog 17 tour length: 52
+ frog 18 tour length: 64
+ frog 19 tour length: 48
+ frog 20 tour length: 50
+ frog 21 tour length: 56
+ frog 22 tour length: 60
+ frog 23 tour length: 62
+ frog 24 tour length: 56
+ frog 25 tour length: 60
+ frog 26 tour length: 50
+ frog 27 tour length: 66
+ frog 28 tour length: 40
+ frog 29 tour length: 56
+ Iteration 1 : global best  14 
+Iteration 2 : global best  14 
+Iteration 3 : global best  14 
+Iteration 4 : global best  14 
+Iteration 5 : global best  14 
+Iteration 6 : global best  14 
+Iteration 7 : global best  14 
+Iteration 8 : global best  14 
+Iteration 9 : global best  14 
+Iteration 10 : global best  14 
+Iteration 11 : global best  14 
+Iteration 12 : global best  14 
+Iteration 13 : global best  14 
+Iteration 14 : global best  14 
+Iteration 15 : global best  14 
+Iteration 16 : global best  14 

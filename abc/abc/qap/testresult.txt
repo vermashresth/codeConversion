@@ -1,0 +1,134 @@
+ optimal route 
+   12    8   10    2    6    4    5    1    0   14    3   13   11    9    7   15  
+ original optimal solution 14 
+ 
+ Initial bee 0 tour length: 36
+ Initial bee 1 tour length: 70
+ Initial bee 2 tour length: 66
+ Initial bee 3 tour length: 54
+ Initial bee 4 tour length: 66
+ Initial bee 5 tour length: 50
+ Initial bee 6 tour length: 60
+ Initial bee 7 tour length: 38
+ Initial bee 8 tour length: 52
+ Initial bee 9 tour length: 42
+ Initial bee 10 tour length: 50
+ Initial bee 11 tour length: 64
+ Initial bee 12 tour length: 64
+ Initial bee 13 tour length: 68
+ Initial bee 14 tour length: 44
+ Initial bee 15 tour length: 56
+ Initial bee 16 tour length: 80
+ Initial bee 17 tour length: 38
+ Initial bee 18 tour length: 66
+ Initial bee 19 tour length: 68
+ Initial bee 20 tour length: 48
+ Initial bee 21 tour length: 72
+ Initial bee 22 tour length: 64
+ Initial bee 23 tour length: 32
+ Initial bee 24 tour length: 54
+ Initial bee 25 tour length: 36
+ Initial bee 26 tour length: 58
+ Initial bee 27 tour length: 42
+ Initial bee 28 tour length: 74
+ Initial bee 29 tour length: 58
+ Iteration 1 : global best before hill climbing 26 
+Iteration 1 : global best after hill climbing 22 
+Iteration 2 : global best before hill climbing 22 
+Iteration 2 : global best after hill climbing 22 
+Iteration 3 : global best before hill climbing 18 
+Iteration 3 : global best after hill climbing 18 
+Iteration 4 : global best before hill climbing 18 
+Iteration 4 : global best after hill climbing 14 
+Iteration 5 : global best before hill climbing 14 
+Iteration 5 : global best after hill climbing 14 
+Iteration 6 : global best before hill climbing 14 
+Iteration 6 : global best after hill climbing 14 
+Iteration 7 : global best before hill climbing 14 
+Iteration 7 : global best after hill climbing 14 
+Iteration 8 : global best before hill climbing 14 
+Iteration 8 : global best after hill climbing 14 
+Iteration 9 : global best before hill climbing 14 
+Iteration 9 : global best after hill climbing 14 
+Iteration 10 : global best before hill climbing 14 
+Iteration 10 : global best after hill climbing 14 
+Iteration 11 : global best before hill climbing 14 
+Iteration 11 : global best after hill climbing 14 
+Iteration 12 : global best before hill climbing 14 
+Iteration 12 : global best after hill climbing 14 
+Iteration 13 : global best before hill climbing 14 
+Iteration 13 : global best after hill climbing 14 
+Iteration 14 : global best before hill climbing 14 
+Iteration 14 : global best after hill climbing 14 
+Iteration 15 : global best before hill climbing 14 
+Iteration 15 : global best after hill climbing 14 
+Iteration 16 : global best before hill climbing 14 
+Iteration 16 : global best after hill climbing 14 
+Iteration 17 : global best before hill climbing 14 
+Iteration 17 : global best after hill climbing 14 
+Iteration 18 : global best before hill climbing 14 
+Iteration 18 : global best after hill climbing 14 
+Iteration 19 : global best before hill climbing 14 
+Iteration 19 : global best after hill climbing 14 
+Iteration 20 : global best before hill climbing 14 
+Iteration 20 : global best after hill climbing 14 
+Iteration 21 : global best before hill climbing 14 
+Iteration 21 : global best after hill climbing 14 
+Iteration 22 : global best before hill climbing 14 
+Iteration 22 : global best after hill climbing 14 
+Iteration 23 : global best before hill climbing 14 
+Iteration 23 : global best after hill climbing 14 
+Iteration 24 : global best before hill climbing 14 
+Iteration 24 : global best after hill climbing 14 
+Iteration 25 : global best before hill climbing 14 
+Iteration 25 : global best after hill climbing 14 
+Iteration 26 : global best before hill climbing 14 
+Iteration 26 : global best after hill climbing 14 
+Iteration 27 : global best before hill climbing 14 
+Iteration 27 : global best after hill climbing 14 
+Iteration 28 : global best before hill climbing 14 
+Iteration 28 : global best after hill climbing 14 
+Iteration 29 : global best before hill climbing 14 
+Iteration 29 : global best after hill climbing 14 
+Iteration 30 : global best before hill climbing 14 
+Iteration 30 : global best after hill climbing 14 
+Iteration 31 : global best before hill climbing 14 
+Iteration 31 : global best after hill climbing 14 
+Iteration 32 : global best before hill climbing 14 
+Iteration 32 : global best after hill climbing 14 
+Iteration 33 : global best before hill climbing 14 
+Iteration 33 : global best after hill climbing 14 
+Iteration 34 : global best before hill climbing 14 
+Iteration 34 : global best after hill climbing 14 
+Iteration 35 : global best before hill climbing 14 
+Iteration 35 : global best after hill climbing 14 
+Iteration 36 : global best before hill climbing 14 
+Iteration 36 : global best after hill climbing 14 
+Iteration 37 : global best before hill climbing 14 
+Iteration 37 : global best after hill climbing 14 
+Iteration 38 : global best before hill climbing 14 
+Iteration 38 : global best after hill climbing 14 
+Iteration 39 : global best before hill climbing 14 
+Iteration 39 : global best after hill climbing 14 
+Iteration 40 : global best before hill climbing 14 
+Iteration 40 : global best after hill climbing 14 
+Iteration 41 : global best before hill climbing 14 
+Iteration 41 : global best after hill climbing 14 
+Iteration 42 : global best before hill climbing 14 
+Iteration 42 : global best after hill climbing 14 
+Iteration 43 : global best before hill climbing 14 
+Iteration 43 : global best after hill climbing 14 
+Iteration 44 : global best before hill climbing 14 
+Iteration 44 : global best after hill climbing 14 
+Iteration 45 : global best before hill climbing 14 
+Iteration 45 : global best after hill climbing 14 
+Iteration 46 : global best before hill climbing 14 
+Iteration 46 : global best after hill climbing 14 
+Iteration 47 : global best before hill climbing 14 
+Iteration 47 : global best after hill climbing 14 
+Iteration 48 : global best before hill climbing 14 
+Iteration 48 : global best after hill climbing 14 
+Iteration 49 : global best before hill climbing 14 
+Iteration 49 : global best after hill climbing 14 
+Iteration 50 : global best before hill climbing 14 
+Iteration 50 : global best after hill climbing 14 

@@ -1,0 +1,124 @@
+Initial frog 0 tour length: 30007.51
+ Initial frog 1 tour length: 27173.73
+ Initial frog 2 tour length: 31122.80
+ Initial frog 3 tour length: 27756.53
+ Initial frog 4 tour length: 32646.45
+ Initial frog 5 tour length: 29733.58
+ Initial frog 6 tour length: 30998.45
+ Initial frog 7 tour length: 29183.27
+ Initial frog 8 tour length: 31265.27
+ Initial frog 9 tour length: 32920.10
+ Initial frog 10 tour length: 29944.80
+ Initial frog 11 tour length: 28143.13
+ Initial frog 12 tour length: 29098.23
+ Initial frog 13 tour length: 30561.61
+ Initial frog 14 tour length: 27257.87
+ Initial frog 15 tour length: 28011.35
+ Initial frog 16 tour length: 30415.67
+ Initial frog 17 tour length: 27110.47
+ Initial frog 18 tour length: 28522.82
+ Initial frog 19 tour length: 31701.98
+ 
+ 
+ ORIGINAL OPTIMAL TOURLENGTH 7498.27 
+ 
+ Iteration 1 - global best: 15124.65 
+Iteration 2 - global best: 12948.67 
+Iteration 3 - global best: 11315.70 
+Iteration 4 - global best: 10756.10 
+Iteration 5 - global best: 10286.85 
+Iteration 6 - global best: 10248.04 
+Iteration 7 - global best: 10081.42 
+Iteration 8 - global best: 10081.42 
+Iteration 9 - global best: 10024.86 
+Iteration 10 - global best: 10024.86 
+Iteration 11 - global best: 10014.24 
+Iteration 12 - global best: 9774.13 
+Iteration 13 - global best: 9774.13 
+Iteration 14 - global best: 9774.13 
+Iteration 15 - global best: 9774.13 
+Iteration 16 - global best: 9774.13 
+Iteration 17 - global best: 9774.13 
+Iteration 18 - global best: 9127.10 
+Iteration 19 - global best: 9127.10 
+Iteration 20 - global best: 9127.10 
+Iteration 21 - global best: 9111.86 
+Iteration 22 - global best: 9111.86 
+Iteration 23 - global best: 9111.86 
+Iteration 24 - global best: 9111.86 
+Iteration 25 - global best: 9111.86 
+Iteration 26 - global best: 9111.86 
+Iteration 27 - global best: 9111.86 
+Iteration 28 - global best: 9111.86 
+Iteration 29 - global best: 9111.86 
+Iteration 30 - global best: 9111.86 
+Iteration 31 - global best: 9111.86 
+Iteration 32 - global best: 9111.86 
+Iteration 33 - global best: 9111.86 
+Iteration 34 - global best: 9111.86 
+Iteration 35 - global best: 9111.86 
+Iteration 36 - global best: 9111.86 
+Iteration 37 - global best: 9111.86 
+Iteration 38 - global best: 9111.86 
+Iteration 39 - global best: 9111.86 
+Iteration 40 - global best: 9111.86 
+Iteration 41 - global best: 9111.86 
+Iteration 42 - global best: 9111.86 
+Iteration 43 - global best: 9111.86 
+Iteration 44 - global best: 9111.86 
+Iteration 45 - global best: 9111.86 
+Iteration 46 - global best: 9111.86 
+Iteration 47 - global best: 9111.86 
+Iteration 48 - global best: 9111.86 
+Iteration 49 - global best: 9111.86 
+Iteration 50 - global best: 9111.86 
+Iteration 51 - global best: 9111.86 
+Iteration 52 - global best: 9111.86 
+Iteration 53 - global best: 9111.86 
+Iteration 54 - global best: 9111.86 
+Iteration 55 - global best: 9111.86 
+Iteration 56 - global best: 9111.86 
+Iteration 57 - global best: 9111.86 
+Iteration 58 - global best: 9111.86 
+Iteration 59 - global best: 9111.86 
+Iteration 60 - global best: 9111.86 
+Iteration 61 - global best: 9111.86 
+Iteration 62 - global best: 9111.86 
+Iteration 63 - global best: 9111.86 
+Iteration 64 - global best: 9111.86 
+Iteration 65 - global best: 9111.86 
+Iteration 66 - global best: 9111.86 
+Iteration 67 - global best: 9111.86 
+Iteration 68 - global best: 9111.86 
+Iteration 69 - global best: 9111.86 
+Iteration 70 - global best: 9111.86 
+Iteration 71 - global best: 9111.86 
+Iteration 72 - global best: 9111.86 
+Iteration 73 - global best: 9111.86 
+Iteration 74 - global best: 9111.86 
+Iteration 75 - global best: 9111.86 
+Iteration 76 - global best: 9111.86 
+Iteration 77 - global best: 9111.86 
+Iteration 78 - global best: 9111.86 
+Iteration 79 - global best: 9111.86 
+Iteration 80 - global best: 9111.86 
+Iteration 81 - global best: 9111.86 
+Iteration 82 - global best: 9111.86 
+Iteration 83 - global best: 9111.86 
+Iteration 84 - global best: 9111.86 
+Iteration 85 - global best: 9111.86 
+Iteration 86 - global best: 9111.86 
+Iteration 87 - global best: 9111.86 
+Iteration 88 - global best: 9111.86 
+Iteration 89 - global best: 9111.86 
+Iteration 90 - global best: 9111.86 
+Iteration 91 - global best: 9111.86 
+Iteration 92 - global best: 9111.86 
+Iteration 93 - global best: 9111.86 
+Iteration 94 - global best: 9111.86 
+Iteration 95 - global best: 9111.86 
+Iteration 96 - global best: 9111.86 
+Iteration 97 - global best: 9111.86 
+Iteration 98 - global best: 9111.86 
+Iteration 99 - global best: 9111.86 
+Iteration 100 - global best: 9111.86 
